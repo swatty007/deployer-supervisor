@@ -10,12 +10,12 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
-        "deployer/deployer": "^6.8",
+        "php": "^7.4|^8.0",        
         "symfony/finder": "^4.4 || ^5.0",
         "thecodingmachine/safe": "^1.2"
     },
     "require-dev": {
+        "deployer/deployer": "^6.8",
         "phpunit/phpunit": "^9.4",
         "setono/code-quality-pack": "^1.4"
     },
